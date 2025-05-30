@@ -41,28 +41,32 @@ AgriSmart is an AI-powered Two-Way SMS bot that helps farmers solve agricultural
 
 ```bash
 git clone https://github.com/your-username/agrismart-bot.git
-cd agrismart-bot
+cd agrismart-bot]
+```
 
 ### 2. Install Dependencies
 
 ```bash
 npm install
+```
 
 ### 3. Setup Environment Variables
 
-```bash
+```.env
 AT_USERNAME=sandbox
 AT_API_KEY=your_sandbox_api_key
 PORT=3000
 OPENAI_API_KEY=your_openai_key
+```
 
-
-### 4. Start your server
+### 4. Start Your Server
 
 ```bash
 node index.js
+```
 
-### 5. Expose Locally via ngrok
+### 5. Expose Your Localhost via ngrok
 
 ```bash
 npx ngrok http 3000
+```
