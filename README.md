@@ -2,7 +2,7 @@
 
 AgriSmart is an AI-powered Two-Way SMS bot that helps farmers solve agricultural problems via SMS in **Kiswahili**. It supports **offline fallback responses** and integrates with **Africa's Talking** for sending/receiving SMS and **OpenAI GPT models** for dynamic answers.
 
-![AgriSmart SMS Bot Flow](./docs/images/agrismart-flow.png)
+![AgriSmart SMS Bot Flow](./assets/agribot.png)
 
 ---
 
